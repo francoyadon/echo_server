@@ -1,2 +1,2 @@
 # echo_server
-Golang echo server
+go run main.go

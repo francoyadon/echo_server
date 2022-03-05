@@ -5,8 +5,7 @@ import (
     "log"
 )
 
-// DefaultPort is the default port to use if once is not specified by the SERVER_PORT environment variable
-const DefaultPort = "7893";
+const DefaultPort = "8089";
 
 
 
